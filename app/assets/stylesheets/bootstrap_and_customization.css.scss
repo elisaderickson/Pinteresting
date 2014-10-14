@@ -3,11 +3,21 @@
 
 $navbar-default-bg: #ecf0f1;
 $navbar-height: 45 px;
+
 $headings-color: #e74c3c;
 $jumbotron-bg: #e74c3c;
 
 $font-family-sans-serif: 'Montserrat', 'Calibri', Arial, sans-serif;
 $font-family-serif: 'Pacifico';
+
+.center {
+	text-align: center;
+}
+
+
+.container {
+	margin-top: 20px;
+}
 
 .cursive {
 	font-family: 'Pacifico' !important;
